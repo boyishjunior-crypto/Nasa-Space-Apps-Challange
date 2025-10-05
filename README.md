@@ -1,6 +1,6 @@
 Nasa-Space-Apps-Challange
 this is the NASA Image Annotation App for this years Nasa Space Apps Challange 2025.
-An advanced mobile application that uses AI-powered region detection and collaborative annotation features to explore, annotate, and analyze NASA space imagery.
+An advanced mobile application that uses  collaborative annotation features to explore, annotate, and analyze NASA space imagery.
 
 Characteristics
 
